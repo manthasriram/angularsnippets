@@ -1,5 +1,14 @@
 # angularsnippets
 
+## Directives
+
+### Scope binding
+
+use @ when you want to use the actual value passed in the attribute
+
+```
+<player-caption playername="Pete Sampras"/>
+```
 
 ```
 /**
